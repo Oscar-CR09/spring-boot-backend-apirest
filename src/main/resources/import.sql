@@ -1,0 +1,11 @@
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Oscar','Cervantes','oc@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Adriana','Barona','ab@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Araceli','Guzman','ag@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Liz','Diaz','ld@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Alexa','Cervantes','ac@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Jesus','Cervantes','jc@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Toño','Xid','tx@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Aliz','Perez','ap@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Jonathan','Rosa','jr@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Luis','Jaso','lj@gmail.com','2023-08-03');
+INSERT INTO clientes (nombre,apellido,email,create_at) VALUES ('Ricardo','Rojas','rr@gmail.com','2023-08-03');
